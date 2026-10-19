@@ -50,11 +50,13 @@ Do investors need complex quant models? No. Quants often do use linear regressio
 Retail investors: be skeptical of products that claim to predict returns. No model we tested could.
 Financial advisors: use volatility forecasts to set client expectations and size positions.
 Risk managers and funds: a simple, transparent model on price history forecasts risk as well as machine learning, and holds up better when the economy shifts.
+
 Limitations
 Survivorship bias: only today's S&P 500 members, so companies that failed or left the index are excluded.
 One regime dominates the test: 2019 to 2026 was mostly a tech-led bull market.
 Monthly data: professionals use intraday data to measure volatility more precisely.
 Earnings flag is approximate: based on SEC filing dates, not exact announcement dates.
+
 Data
 
 No data files are needed. The script pulls everything automatically from free public sources:
