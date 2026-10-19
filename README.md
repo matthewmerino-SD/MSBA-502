@@ -42,6 +42,7 @@ Risk is about half predictable. The best models explained about 52% of next mont
 Simple matched complex. Linear regression on 12 price variables (52.0%) came within 1 point of random forest (52.8%).
 More variables can hurt. Adding 27 variables dropped plain linear regression from 52% to 27% when interest rates jumped in 2022 and 2023.
 We beat the VIX. By 13 points for individual stocks. For the S&P 500 itself, a simple regression matched or beat the options market's own forecast.
+
 Conclusion
 
 Do investors need complex quant models? No. Quants often do use linear regression, and our data shows why: it was as accurate as machine learning, easier to explain, and harder to break when markets changed.
