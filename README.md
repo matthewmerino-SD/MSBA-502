@@ -73,3 +73,6 @@ The first run takes about 15 to 25 minutes while it downloads data; later runs t
 Files
 502 Project.py: the full analysis
 502 Project.pdf: our final presentation
+Files
+502 Project.py: the full analysis
+502 Project.pdf: our final presentation
